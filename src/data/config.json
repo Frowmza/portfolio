@@ -1,34 +1,41 @@
 {
-  "job": "Frontend Developer",
-  "name": "John Doe",
-  "desc": "The traveler of this path, a web designer in Turkey.",
-  "aboutDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-  "email": "john.doe@example.com",
+  "job": "Full Stack Developer",
+  "name": "Hamza Aitali",
+  "desc": "Life is short, program it well, a software engineer in Morocco.",
+  "aboutDesc": "Balancing my role as a full-time student with my experience as a full-stack software engineer, I bring a strong blend of theoretical knowledge and practical skills to each project. My drive for continuous learning and problem-solving motivates me to excel in both solo and team-based settings. I am excited to apply my expertise to a new opportunity where I can help create innovative solutions and advance within a progressive team.",
+  "email": "hamzaaitali55@gmail.com",
   "status": "on",
-  "hireMeLink": "https://twitter.com/iamkaanayyildiz",
+  "hireMeLink": "https://www.instagram.com/hamzaatll/",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Benfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-image-url": "https://i.imgur.com/HEdHYKJ.jpeg",
+      "project-name": "Laptop UI",
+      "project-desc": "React + Typescript + Tailwind + Lua"
+    },
+    {
+      "project-image-url": "https://i.imgur.com/NtQyVie.png",
+      "project-name": "NPC Dialog",
+      "project-desc": "Svelte + Typescript + Tailwind + Lua"
+    },
+    {
+      "project-image-url": "https://i.imgur.com/Et9hxIc.png",
+      "project-name": "Vehicle Customs",
+      "project-desc": "React + Typescript + Tailwind + Lua"
+    },
+    {
+      "project-image-url": "https://i.imgur.com/Vh59PVl.png",
+      "project-name": "Inventory",
+      "project-desc": "React + Typescript + Tailwind + Lua + Sql"
     }
   ],
   "social": [
     {
-      "icon": "FaXTwitter",
-      "link": "https://x.com"
-    },
-    {
       "icon": "FaInstagram",
-      "link": "https://instagram.com"
+      "link": "https://www.instagram.com/hamzaatll/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com"
-    },
-    {
-      "icon": "FaLinkedinIn",
-      "link": "https://linkedin.com"
+      "link": "https://github.com/Frowmza"
     }
   ]
 }

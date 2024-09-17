@@ -28,7 +28,7 @@ export default function Profile() {
           <h1 className="text-4xl md:text-4xl font-semibold text-center md:text-justify tracking-tighter">
             I'm {configData.name}
           </h1>
-          <p className="md:w-3/4 text-lg text-gray-500 text-center md:text-justify font-normal tracking-tigh">
+          <p className="text-lg text-gray-500 text-center md:text-justify font-normal tracking-tigh">
             {configData.desc}
           </p>
           <div className="flex items-center text-center md:text-justify justify-center md:justify-normal pt-6">
@@ -57,7 +57,7 @@ export default function Profile() {
         </div>
         <div className="rounded-full p-2 flex items-center justify-center mb-7">
           <div className="w-36 h-36 rounded-full bg-gradient-to-b from-gray-100 to-gray-300 border-2 flex items-center justify-center">
-            <img src={profile} alt="" className="max-w-full max-h-full " />
+            <img src={profile} alt="" className="max-w-full max-h-full rounded-full" />
           </div>
         </div>
       </div>

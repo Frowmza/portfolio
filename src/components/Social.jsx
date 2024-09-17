@@ -6,7 +6,7 @@ export default function Social() {
 
   return (
     <>
-      <div className="px-2">
+      <div className="px-2 mb-2">
         <div className="flex items-center justify-between px-7 py-7 bg-gray-100 rounded-lg">
           <div className="font-medium text-lg flex items-center gap-x-2">
             <div className="w-1.5 h-1.5 bg-gray-400 rounded-full"></div>
