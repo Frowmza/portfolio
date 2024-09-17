@@ -1,4 +1,3 @@
-import profile from "../assets/profile.png";
 import CopyEmailButton from "../components/CopyEmailButton";
 import { getConfigData } from "../data/configReader";
 
@@ -20,7 +19,6 @@ export default function About() {
           <p className="text-lg text-gray-500 text-center md:text-justify font-normal tracking-tigh">
             {configData.aboutDesc}
           </p>
-          <img className="border rounded-md p-3 shadow-md" src="src/assets/source.png" alt="" />
         </div>
       </div>
       <div className="flex flex-col items-center justify-center">
